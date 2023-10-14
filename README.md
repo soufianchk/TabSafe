@@ -1,6 +1,6 @@
-# Save Tab Browser Extension
+# TabSafe Browser Extension
 
-The "Save Tab" browser extension is a user-friendly tool that simplifies tab management and organization for a more efficient web browsing experience.
+The "TabSafe" browser extension is a user-friendly tool that simplifies tab management and organization for a more efficient web browsing experience.
 
 ## Features
 
@@ -18,7 +18,7 @@ The "Save Tab" browser extension is a user-friendly tool that simplifies tab man
 
 ## Usage
 
-1. Click the "Save Tab" icon in your browser's toolbar.
+1. Click the "TabSafe" icon in your browser's toolbar.
 2. Save the current tab with a single click.
 3. Organize your saved tabs into folders and add tags for easy access.
 
@@ -26,10 +26,6 @@ The "Save Tab" browser extension is a user-friendly tool that simplifies tab man
 
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 ---
 
-Enjoy a more organized browsing experience with the "Save Tab" extension!
+Enjoy a more organized browsing experience with the "TabSafe" extension!
