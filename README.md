@@ -8,8 +8,6 @@ The "TabSafe" browser extension is a user-friendly tool that simplifies tab mana
 - **Custom Organization**: Organize your saved tabs into folders and apply tags to easily find them later.
 - **Quick Access**: Conveniently access your saved tabs from the extension's intuitive interface.
 - **Declutter Your Browser**: Keep your workspace clean and focus on what matters by saving and organizing tabs.
-  ![Unitify screenshot1](screenshot1.png)
-  ![Unitify screenshot2](screenshot2.png)
 ## Installation
 
 1. Clone this repository or download the ZIP file.
